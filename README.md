@@ -17,8 +17,8 @@ Atualmente estou estudando automatização de testes com Python e Robot.<br />
 
 <div align="center">
   <a href="https://github.com/shakalzyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakalzyn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakalzyn&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakalzyn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakalzyn&layout=compact&langs_count=7&theme=github_dark"/>
 </div><br/>
 <h4 align="center">Ferramentas e tecnologias:</h4>
 <div align="center" style="display: inline_block"><br/>
